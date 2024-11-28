@@ -12,7 +12,7 @@ title                    : "Guang' s Homepage"
 title_separator          : "-"
 name                     : "Guang Yang"
 description              : "I am currently an PhD student at Xidian University, and research focusing on multimodal image fusion and low-level vision."
-url                      : "https://SSyangguang.github.io"
+url                      : "https://ssyangguang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/SSyangguang"
 
