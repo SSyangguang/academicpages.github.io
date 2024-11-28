@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Your Name / Site Title"
+title                    : "Guang' s Homepage"
 title_separator          : "-"
 name                     : "Guang Yang"
 description              : "I am currently an PhD student at Xidian University, and research focusing on multimodal image fusion and low-level vision."
@@ -23,11 +23,8 @@ author:
   # Biographic information
   avatar           : "IMG_20200302_235337.jpg"
   name             : "Guang Yang"
-  pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
   location         : "China"
   employer         : "Xidian University"
-  uri              : # URL
   email            : "ssyanguang@gmail.com" 
 
   # Academic websites
