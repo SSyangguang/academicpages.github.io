@@ -12,7 +12,7 @@ title                    : "Guang Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Guang Yang"
 description              : "I am currently a PhD student at Xidian University, and research focusing on multimodal image fusion and low-level vision."
-url                      : https://ssyangguang.github.io # the base hostname & protocol for your site e.g. "https://ssyangguang.github.io"
+url                      : https://ssyangguang.github.io/ # the base hostname & protocol for your site e.g. "https://ssyangguang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SSyangguang/ssyangguang.github.io"
 
@@ -32,8 +32,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=DDlpdQYAAAAJ&hl=en"
 
   # Repositories and software development
-  github           : "https://github.com/SSyangguang"
-  zhihu            : "https://www.zhihu.com/people/sun-49-38-36"
+  github           : "SSyangguang"
+  zhihu            : "sun-49-38-36"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
