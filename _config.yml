@@ -14,7 +14,7 @@ name                     : &name "Guang Yang"
 description              : "I am currently a PhD student at Xidian University, and research focusing on multimodal image fusion and low-level vision."
 url                      : https://ssyangguang.github.io # the base hostname & protocol for your site e.g. "https://ssyangguang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/SSyangguang/ssyangguang.github.io"
+repository               : "SSyangguang/ssyangguang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
